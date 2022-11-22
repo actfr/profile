@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# action for relation
+# action for relationship
  > 旨在观察自己每天所接触到的人
  
  
